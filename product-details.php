@@ -59,7 +59,7 @@
                         <div class="single__product--nav swiper">
                             <div class="swiper-wrapper">
                                 <?php
-                                  //  foreach ($FOTOLAR as $FOTO) {
+                                   foreach ($FOTOLAR as $FOTO) {
                                         ?>
                                             <div class="swiper-slide">
                                                 <div class="product__media--nav__items">
@@ -67,7 +67,7 @@
                                                 </div>
                                             </div>
                                         <?php
-                                  //  }
+                                   }
                                 ?>
                             </div>
                             <div class="swiper__nav--btn swiper-button-next">
